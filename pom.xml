@@ -9,7 +9,7 @@
     <description>
         This is a simple Maven / Java web project.
     </description>
-    <inceptionYear>2017</inceptionYear>
+    <inceptionYear>2020</inceptionYear>
     <url>http://taylor.training/</url>
 
     <properties>
